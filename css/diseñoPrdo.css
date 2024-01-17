@@ -1,0 +1,39 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400");
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  outline: none;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+input[type=checkbox] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+
+#div1 {
+     overflow:scroll;
+     height:300px;
+     width:100%;
+     style=float:left;
+}
+
+#div2 {
+     overflow:scroll;
+     height:300px;
+     width:100%;
+     style=float:right;
+}
+
+#div3 {
+     overflow:scroll;
+     height:300px;
+     width:100%;
+     style=float:right;
+}

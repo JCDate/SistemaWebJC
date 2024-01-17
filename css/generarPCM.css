@@ -1,0 +1,46 @@
+body {
+  background-color: #AED6F1;
+}
+
+h1, h2 {
+   text-align: center; /* Alinea el contenido al centro horizontal */
+   margin: 0 auto; /* Centra horizontalmente dentro de su contenedor */
+}
+
+table {
+  background-color: #85929E;
+  border: 1px solid #000; /* 1px de grosor, tipo sólido, color negro (#000) */
+  text-align: center; /* Alinea el contenido al centro horizontal */
+  margin: 0 auto; /* Centra horizontalmente dentro de su contenedor */
+}
+
+#tdComponente {
+  background-color: #7CADD6;
+}
+
+#componente {
+  background-color: #7CADD6;
+  border-color: #7CADD6;
+  border-style:solid;
+  font-size: 17pt;
+  width: 100px;"
+}
+
+#revision {
+  background-color: #64B5F6;
+}
+
+#nivelRev {
+  width: 30px;
+}
+
+#tdNoNivelCambio {
+  background-color: #5DADE2;
+  text-align: center; /* Alinea el contenido al centro horizontal */
+  margin: 0 auto; /* Centra horizontalmente dentro de su contenedor */
+}
+
+#tdNivelParJC {
+  background-color: #AED6F1;
+  font-style: oblique;
+}

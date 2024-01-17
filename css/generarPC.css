@@ -1,0 +1,45 @@
+body {
+  background-color: #AED6F1;
+}
+ h1 {
+   text-align: center;
+ }
+
+table {
+  border: 1px solid #000; /* Bordes de 1 píxel sólido de color negro */
+  margin: 0 auto; /* Centra la tabla en el contenedor */
+  background-color: #85929E; /* Color de fondo */
+}
+
+#trComponente {
+  background-color: #7CADD6;
+  text-align: center;
+}
+
+#componente {
+  background-color: #7CADD6;
+  text-align: center;
+  border-color: #7CADD6;
+  border-style: solid;
+  font-size: 17pt;
+  width: 20%;
+}
+
+#trFechaEmision {
+  background-color: #64B5F6;
+  text-align: center;
+}
+
+.tdBgColor1 {
+  background-color: #64B5F6;
+  text-align: center;
+}
+
+.tdBgColor2 {
+  background-color: #5DADE2;
+  text-align: center;
+}
+
+.tdBgColor3 {
+  background-color: #AED6F1;
+}

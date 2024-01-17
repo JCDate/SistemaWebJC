@@ -1,0 +1,144 @@
+.boton_1 {
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+  color: #006505;
+  background-color: #3498DB;
+  border-radius: 15px;
+  border: 3px double #006505;
+}
+.boton_1:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+.boton_2 {
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+  color: #69C0F7;
+  background-color: #DA0E0B;
+  border-radius: 15px;
+  border: 3px double #154360;
+}
+.boton_2:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+.boton_3 {
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+  color: #154360;
+  background-color: #D7DBDD;
+  border-radius: 15px;
+  border: 3px double #DA0E0B;
+}
+.boton_3:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+.boton_4 {
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+  color: #006505;
+  border-radius: 15px;
+  border: 3px double #006505;
+}
+.boton_4:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+.boton_5 {
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+  color: #FF9120;
+  border-radius: 15px;
+  border: 3px double #FF9120;
+}
+.boton_5:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.boton_6 {
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 18px;
+  font-style: italic;
+  color: #3EA4E0;
+  border-radius: 15px;
+  border: 3px double #3EA4E0;
+}
+.boton_6:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.boton_7{
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 15px;
+  font-style: italic;
+  color: #DA0E0B;
+  border-radius: 15px;
+  border: 3px double #DA0E0B;
+}
+
+.boton_7:hover{
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+#boton_5{
+  text-decoration: none;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: helvetica;
+  font-weight: 300;
+  font-size: 15px;
+  font-style: italic;
+  color: #DA0E0B;
+  border-radius: 15px;
+  border: 3px double #DA0E0B;
+}
+
+#boton_5:hover{
+  opacity: 0.6;
+  text-decoration: none;
+}

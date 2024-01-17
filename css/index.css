@@ -1,0 +1,62 @@
+
+body {
+  margin: 0; /* Elimina el margen predeterminado del cuerpo */
+  padding: 0; /* Elimina el relleno predeterminado del cuerpo */
+  background-image: url("../img/bg.jpg"); /* Reemplaza 'tu_imagen_de_fondo.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Cubre toda la pantalla con la imagen */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+
+}
+
+body:before {
+  background: rgba(0,0,0,0.6);
+  content: "";
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: separate; /* Separar bordes de las celdas */
+  border-spacing: 10px; /* Espacio entre las celdas */
+}
+
+td, th {
+  padding: 10px; /* Espacio interno de las celdas */
+  border: 1px solid #ddd; /* Borde de las celdas */
+}
+
+
+.hero-section .container {
+  height: 60vh;
+  z-index: 1;
+  position: relative;
+}
+
+.hero-section h1 {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.hero-section h2 {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.tblContactos {
+  text-align: center;
+}
+
+.login__form {
+  position: relative;
+  background-color: hsla(0, 0%, 10%, 0.1);
+  border: 2px solid hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 100%);
+  margin-inline: 1.5rem;
+  padding: 2.5rem 1.5rem;
+  border-radius: 1rem;
+  backdrop-filter: blur(8px);
+}
