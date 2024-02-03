@@ -59,7 +59,7 @@ imagestring($im, 3, $px, 9, $cadena, $naranja);
 imagepng($im);
 imagedestroy($im);*/
 
-$rutaServidor = "192.168.1.69";
+$rutaServidor = "192.168.1.75";
 
   ?>
 

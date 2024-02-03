@@ -237,7 +237,7 @@ $_SESSION['tiempo']=time(); //Si hay actividad seteamos el valor al tiempo actua
                             <td><?php echo $filaD2['responsable'];?></td>
                             <td><center>
                             <?php if ($filaD2['clasificacion'] == 'C') { ?>
-                                <img src='/produccion2/img/C.png' width='100' height='100' />
+                                <img src='/produccion/img/C.png' width='100' height='100' />
                             <?php } else {
                                 echo $filaD2['clasificacion'];
                               } ?></center></td>
